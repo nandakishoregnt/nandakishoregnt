@@ -30,11 +30,6 @@ Hi, I'm Nanda Kishore, a passionate self-taught Full Stack web developer and a f
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<!--
-**nandakishoregnt/nandakishoregnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:-->
-
 - 🔭 I’m currently working on .NET / .NET Core
 - 🌱 I’m currently learning Angular / React / Vue
 - 👯 I’m looking to collaborate on Both Front-end & Back-End technologies
@@ -42,3 +37,6 @@ Here are some ideas to get you started:-->
 - 💬 Ask me about Angular / React / Vue / Node.js / ASP.NET COre
 - 📫 How to reach me: [@nandakishoregnt](https://twitter.com/nandakishoregnt)
 
+📈 My GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nandakishoregnt&show_icons=true&theme=gotham" alt="nandakishore" />
