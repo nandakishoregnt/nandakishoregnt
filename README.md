@@ -31,9 +31,9 @@ Hi, I'm Nanda Kishore, a passionate self-taught Full Stack web developer from In
 
 - 🔭 I’m currently working on .NET / .NET Core
 - 🌱 I’m currently learning Angular / React / Vue
-- 👯 I’m looking to collaborate on Both Front-end & Back-End technologies
-- 🤔 I’m looking for help with Angular / React / Vue / Node.js / ASP.NET COre
-- 💬 Ask me about Angular / React / Vue / Node.js / ASP.NET COre
+- 👯 I’m looking to collaborate on both front-end & back-End technologies
+- 🤔 I’m looking for help with Angular / React / Vue / Node.js / ASP.NET Core
+- 💬 Ask me about ASP.NET Core / C# / Angular / React / Vue / Node.js
 - 📫 How to reach me: [@nandakishoregnt](https://twitter.com/nandakishoregnt)
 
 📈 My GitHub Stats
