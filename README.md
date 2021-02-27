@@ -15,7 +15,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=nandakishoregnt.nandakishoregnt)
 
 <br />
-Hi, I'm Nanda Kishore, a passionate self-taught Full Stack web developer and a freelance software engineer from India. I believe in sharing the knowledge with others will help one to become a true self.
+Hi, I'm Nanda Kishore, a passionate self-taught Full Stack web developer from India. I believe in sharing the knowledge with others will help one to become a true self.
   
 - 💬 Ask me about anything, I am happy to help you in any possible way I can;
 - 📫 How to reach out to me: [@nandakishoregnt](https://twitter.com/nandakishoregnt);
